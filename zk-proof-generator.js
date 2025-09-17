@@ -18,4 +18,3 @@ async function verifyProof(proof, publicSignals, verificationKey) {
     const { proof, publicSignals } = await generateProof(input);
     console.log("Proof generated:", proof);
 })();
-💻 zkForge Script: Generating proofs like a pro!
